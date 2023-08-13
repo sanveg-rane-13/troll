@@ -1,0 +1,21 @@
+.vscode/
+.cache/
+build/
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+*.swp
+*.swo
+*.DS_Store
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+*.pyc
